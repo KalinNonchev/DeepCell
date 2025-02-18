@@ -11,10 +11,10 @@ setup(name='deepcell',
       license='MIT License',
       long_description_content_type='text/markdown',
       long_description=open('README.md').read(),
-      url="https://github.com/ratschlab/DeepSpot",
+      url="https://github.com/KalinNonchev/DeepCell",
       packages=find_packages(),  # find packages
-      #include_package_data=True,
+      include_package_data=True,
       # external packages as dependencies,
-#      install_requires=requirements,
+      install_requires=requirements,
       python_requires='>=3.9'
       )
