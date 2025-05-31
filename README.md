@@ -1,3 +1,5 @@
+### [Deprecated – Please use the updated repository at https://github.com/ratschlab/DeepSpot.]
+
 # DeepCell
 
 This repository contains an adapted version of the [DeepSpot](https://github.com/ratschlab/DeepSpot) model for single-cell spatial transcriptomics.
